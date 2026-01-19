@@ -13,7 +13,7 @@ You’ll deploy a highly available web application stack across multiple AZs, wi
 
 ## 🛠️ Services used
 * **Amazon EC2**: Auto Scaling app instances across multiple AZs
-* **Application Load Balancer (ALB): Distribute traffic and monitor instance health
+* **Application Load Balancer (ALB)**: Distribute traffic and monitor instance health
 * **Amazon RDS (Multi-AZ)**: Highly available relational database
 * **Amazon Route 53**: DNS routing with health checks and failover
 * **Amazon S3**: Backup for DNS Failover
